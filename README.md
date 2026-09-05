@@ -1,7 +1,7 @@
 # Mountain-Building-and-Weathering-Efficiencies
 
 ## Overview
-This repository contains contains the MATLAB code used for the climate modelling and weathering efficiency analysis presented within my research project
+This repository contains contains the MATLAB code used for the climate modelling and weathering efficiency analysis presented within my research project. The code was originally developed by Rushby et al., (2018) and subsequently adapted for use in this research paper. 
 
 ## Files
 
