@@ -1,1 +1,1 @@
-
+The script 'updated_compute.m' was modified to include the Weathering Efficiency (W(R)) function calculated earlier within the project. These changes can be found on line 301, 302 and 310. Furthermore, the Weathering Efficiency function replaced 'erosion_rate' in the original Rushby et al., (2018) script as it generated a more representative model of the parameters being investigated within this study.
